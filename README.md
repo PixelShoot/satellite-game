@@ -1,1 +1,1 @@
-# satellite-game
+# Satellite Game
